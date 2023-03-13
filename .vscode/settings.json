@@ -1,3 +1,6 @@
 {
-  "window.zoomLevel": 3
+  "window.zoomLevel": 3,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/ongwl/Desktop/devops/gh-action-practice-6/.github/workflows/deploy.yml"
+  }
 }
